@@ -1,1 +1,3 @@
-<?php die("teste")?>
+<?php
+ die("teste");
+?>
